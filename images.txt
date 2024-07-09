@@ -1,1 +1,1 @@
-bitnami/postgresql:9.6.22-debian-10-r13
+postgres:9.6.24
