@@ -1,1 +1,1 @@
-atmoz/sftp
+bitnami/redis:6.0.9-debian-10-r66
