@@ -1,2 +1,3 @@
-bitnami/redis:6.0.9-debian-10-r66
-nginx:latest
+mysql:5.7.30
+busybox:1.32
+bats/bats:1.2.1
