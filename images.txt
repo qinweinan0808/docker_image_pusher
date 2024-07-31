@@ -1,3 +1,1 @@
-mysql:5.7.30
-busybox:1.32
-bats/bats:1.2.1
+bitnami/rabbitmq:3.12-debian-11
