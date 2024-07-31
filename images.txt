@@ -1,1 +1,1 @@
-bitnami/rabbitmq:3.12-debian-11
+bitnami/elasticsearch-curator-archived:5.8.4-debian-10-r337
