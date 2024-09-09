@@ -1,1 +1,1 @@
-jenkins/jenkins:2.462.1-lts-jdk11
+gitlab/gitlab-ce:16.11.8-ce.0
