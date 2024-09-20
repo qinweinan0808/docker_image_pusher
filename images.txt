@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:16.11.8-ce.0
+vmware/registry-photon:v2.6.2-v1.5.0
