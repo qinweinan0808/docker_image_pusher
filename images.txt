@@ -1,1 +1,1 @@
-vmware/registry-photon:v2.6.2-v1.5.0
+elasticsearch:6.8.23
