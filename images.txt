@@ -1,1 +1,1 @@
-elasticsearch:6.8.23
+bitnami/elasticsearch:6.8.23
