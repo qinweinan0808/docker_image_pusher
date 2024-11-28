@@ -1,1 +1,1 @@
-bitnami/mysql:5.7.43
+mortensrasmussen/docker-registry-manifest-cleanup:1.1.2beta
