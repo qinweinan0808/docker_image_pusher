@@ -1,2 +1,2 @@
-docker.elastic.co/beats/elasticsearch:8.12.2
-docker.elastic.co/beats/kibana:8.12.2
+elasticsearch:8.12.2
+kibana:8.12.2
