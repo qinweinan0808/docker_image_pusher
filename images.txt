@@ -1,1 +1,1 @@
-nginx:stable
+qdrant/qdrant:v1.12.5
