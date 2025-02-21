@@ -1,1 +1,1 @@
-mintplexlabs/anythingllm
+jenkins/jenkins:2.155-jdk11
