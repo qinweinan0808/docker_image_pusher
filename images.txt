@@ -1,1 +1,1 @@
-jenkinsci/jnlp-slave
+ubuntu:20.04
