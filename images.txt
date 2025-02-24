@@ -1,1 +1,1 @@
-jenkins/jenkins:2.155
+jenkins/inbound-agent:latest
