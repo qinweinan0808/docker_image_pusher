@@ -1,2 +1,2 @@
-mysql:5.7.44
-redis:6.2.14
+rabbitmq:3.12-management
+qdrant:v1.13.4
