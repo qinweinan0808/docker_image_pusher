@@ -1,1 +1,1 @@
-jellyfin/jellyfin
+fauria/vsftpd
