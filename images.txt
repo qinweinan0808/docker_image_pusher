@@ -1,1 +1,1 @@
-koshigoe/vsftpd:latest
+arm64/elasticaearch:8.5
