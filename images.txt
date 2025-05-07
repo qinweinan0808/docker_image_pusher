@@ -1,1 +1,1 @@
-arm64/elasticaearch:8.5
+rockylinux:9.3.20231119
