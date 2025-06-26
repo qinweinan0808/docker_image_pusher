@@ -1,1 +1,1 @@
-ubuntu:25.04
+ubuntu:24.04
