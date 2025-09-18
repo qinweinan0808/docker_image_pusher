@@ -1,1 +1,1 @@
-maven:3.9.11-eclipse-temurin-17
+rabbitmq:3.13.7-management
