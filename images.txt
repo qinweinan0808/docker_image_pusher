@@ -1,1 +1,2 @@
-rabbitmq:4.1.4-management
+rabbitmq:4.2.0-management
+redis:6.2.20
