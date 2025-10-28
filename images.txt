@@ -2,3 +2,4 @@ rabbitmq:4.2.0-management
 redis:6.2.20
 mysql:5.7.44
 qdrant/qdrant:v1.15
+elasticsearch:8.18.8
