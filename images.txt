@@ -1,1 +1,1 @@
-debian:bookworm-slim
+redis:6.0.9
