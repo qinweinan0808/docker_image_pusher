@@ -1,2 +1,2 @@
-redis-exporter:1.15.0-debian-10-r8
-redis:6.0.9-debian-10-r66
+bitnami/redis-exporter:1.15.0
+bitnami/redis:6.0.9
