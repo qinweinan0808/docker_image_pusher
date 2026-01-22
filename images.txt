@@ -1,1 +1,3 @@
-redis:6.0.9
+apolloconfig/apollo-portal:1.9.2
+apolloconfig/apollo-adminservice:1.9.2
+apolloconfig/apollo-configservice:1.9.2
