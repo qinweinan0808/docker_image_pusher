@@ -1,3 +1,2 @@
-apolloconfig/apollo-portal:1.9.2
-apolloconfig/apollo-adminservice:1.9.2
-apolloconfig/apollo-configservice:1.9.2
+docker.io/bitnami/redis-exporter:1.15.0-debian-10-r8
+docker.io/bitnami/redis:6.0.9-debian-10-r66
