@@ -1,1 +1,1 @@
-python:3.13-slim-bookworm
+bitnami/mysql:8.4.8
