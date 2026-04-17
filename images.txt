@@ -1,1 +1,1 @@
-oceanbase/oceanbase-ce:4.2.1-lts
+redis:6.0.9-debian-10-r66
