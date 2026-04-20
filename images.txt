@@ -1,1 +1,1 @@
-bitnami/redis:6.0.20
+python:3.7.17-slim-bookworm
