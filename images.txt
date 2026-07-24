@@ -1,1 +1,1 @@
---platform=linux/arm/v5 python:3.7.17-slim-bookworm
+nginx:1.30-alpine
