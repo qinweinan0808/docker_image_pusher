@@ -1,1 +1,2 @@
-kubelauncher/postgresql:17.10
+nacos/nacos-peer-finder-plugin:1.1
+nacos/nacos-server:v3.2.3
