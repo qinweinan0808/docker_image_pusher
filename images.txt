@@ -1,1 +1,1 @@
-nacos/nacos-server:v3.2.4
+jenkins/jenkins:2.568.3-lts-jdk21
