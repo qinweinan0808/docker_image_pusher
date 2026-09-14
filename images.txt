@@ -1,1 +1,1 @@
-dhi.io/uv:0-dev
+debian:13
