@@ -1,1 +1,1 @@
-jenkins/jenkins:2.568.3-lts-jdk21
+dhi.io/uv:0-dev
