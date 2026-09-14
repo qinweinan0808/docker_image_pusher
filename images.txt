@@ -1,1 +1,1 @@
-debian:13
+ghcr.io/astral-sh/uv:0.12.13
