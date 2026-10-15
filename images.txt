@@ -1,1 +1,1 @@
-qdrant/qdrant:v1.7.4
+ghcr.io/astral-sh/uv:python3.11-bookworm-slim
