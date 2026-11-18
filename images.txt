@@ -1,1 +1,1 @@
-python:3.14-slim-bookworm
+docker.io/library/python:3.14-slim-bookworm
